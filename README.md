@@ -6,15 +6,15 @@ The purpose of this analysis is to create a report that includes what cryptocurr
 
 ## Overview
 
-•	Preprocess data for unsupervised learning.
+*	Preprocess data for unsupervised learning.
 
-•	Reducing Data Dimensions Using PCA.
+*	Reducing Data Dimensions Using PCA.
 
-•	Cluster data using K-means algorithm.
+*	Cluster data using K-means algorithm.
 
-•	Determine the best number of centroids for K-means using the elbow curve.
+*	Determine the best number of centroids for K-means using the elbow curve.
 
-•	Use PCA to limit features and speed up the model.
+*	Use PCA to limit features and speed up the model.
 
 * Visualizing Cryptocurrencies Results.
 
